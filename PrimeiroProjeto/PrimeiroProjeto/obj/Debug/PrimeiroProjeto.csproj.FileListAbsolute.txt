@@ -23,7 +23,6 @@ C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\Pr
 C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
 C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
 C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.AssemblyReference.cache
-C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe.config
 C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Form1.resources
 C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Properties.Resources.resources
 C:\Users\DB\Desktop\primeiroprojeto\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.GenerateResource.cache
