@@ -63,11 +63,19 @@ namespace PrimeiroProjeto
             if (Email.ToLower() == EmailCadastrado && Senha == SenhaCadastrada)
             {
                 MessageBox.Show(
+<<<<<<< HEAD
                    "Login realizado com sucesso!",
                    "Bem vindo",
                    MessageBoxButtons.OK,
                    MessageBoxIcon.Information);
                 
+=======
+                    "Login realizado com sucesso!",
+                    "Bem-vindo", MessageBoxButtons.OK,
+                    MessageBoxIcon.Information
+                    );
+            }
+>>>>>>> a80e731656d943b7a21fc43eb94e5a3b822ed14e
             else
             {
                 MessageBox.Show(
